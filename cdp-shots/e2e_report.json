@@ -1,0 +1,85 @@
+{
+  "resume": "clicked Resume",
+  "gridWait": "88 grid images after 4s",
+  "health": {
+    "/api/system/ram": "{\"ram_free_gb\":1.4,\"ram_total_gb\":16.8,\"ram_percent\":91.7,\"ram_min_gb\":1.8}",
+    "/api/config": "{\"force_frontier\":false}",
+    "/api/models/status": "{\"draft_available\":false,\"verify_available\":false,\"judge_available\":true,\"phi4_available\":false,\"last_mode\":\"idle\",\"last_verify_used\":false,\"last_error\":null,\"qwen_warm\":false,\"qwen_loading\":false,\"qwen_int4_cached\":false,\"qwen_download_pct\":null,\"warmup_done\":true,\"warmup_running\":false,\"compute_de"
+  },
+  "skeleton": {
+    "rootChildren": 1,
+    "tabs": [
+      "Strong(670)",
+      "Mid(2135)",
+      "Weak(1346)",
+      "Gallery",
+      "Duplicates(17607)",
+      "Creative",
+      "",
+      ""
+    ],
+    "gridImgs": 88,
+    "hasErrorOverlayText": false
+  },
+  "views": [
+    {
+      "label": "Strong(670)",
+      "selected": "true",
+      "imgs": 102,
+      "blankRoot": false
+    },
+    {
+      "label": "Mid(2135)",
+      "selected": "true",
+      "imgs": 102,
+      "blankRoot": false
+    },
+    {
+      "label": "Weak(1346)",
+      "selected": "true",
+      "imgs": 102,
+      "blankRoot": false
+    },
+    {
+      "label": "Gallery",
+      "selected": "true",
+      "imgs": 1362,
+      "blankRoot": false
+    },
+    {
+      "label": "Duplicates(17607)",
+      "selected": "true",
+      "imgs": 5282,
+      "blankRoot": false
+    },
+    {
+      "label": "Creative",
+      "selected": "true",
+      "imgs": 21416,
+      "blankRoot": false
+    },
+    {
+      "label": "Story",
+      "selected": "true",
+      "imgs": 21416,
+      "blankRoot": false
+    },
+    {
+      "label": "Contest",
+      "selected": "true",
+      "imgs": 21416,
+      "blankRoot": false
+    }
+  ],
+  "filterClick": {
+    "countButtonsFound": 4,
+    "sample": [
+      "Strong(670)",
+      "Mid(2135)",
+      "Weak(1346)",
+      "Duplicates(17607)"
+    ]
+  },
+  "consoleWarningsAndErrors": [],
+  "uncaughtExceptions": []
+}

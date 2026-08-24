@@ -1,0 +1,26 @@
+# dependencies / build output
+node_modules/
+dist/
+street-story-curator/frontend/dist/
+street-story-curator/src-tauri/target/
+
+# model caches & runtime artifacts (21+ GB)
+models/
+*.gguf
+*.safetensors
+*.bin
+
+# CDP browser profile & captures
+cdp-shots/profile/
+cdp-shots/*.png
+cdp-shots/*.log
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+Thumbs.db
+.DS_Store
