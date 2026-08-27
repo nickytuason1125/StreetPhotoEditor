@@ -40,3 +40,9 @@ _sample_run*.log
 
 # Headless Chrome profile used for specimen screenshots.
 cdp-shots/profile_shot/
+
+# Sample photographs of unverified provenance. Uniform 1200x800 with no EXIF
+# at all, which is the signature of stock imagery rather than camera files.
+# Kept locally as a test set; must never be redistributed with the app until
+# someone confirms the licence.
+Sample_Street/
