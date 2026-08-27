@@ -37,3 +37,6 @@ cdp-shots/*.html
 
 # One-off sample-run capture from the launcher.
 _sample_run*.log
+
+# Headless Chrome profile used for specimen screenshots.
+cdp-shots/profile_shot/
