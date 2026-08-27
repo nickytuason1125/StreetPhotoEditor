@@ -24,3 +24,16 @@ venv/
 # OS
 Thumbs.db
 .DS_Store
+
+# CDP scratch: probe scripts, captured DOM dumps and boot logs. Working
+# notes from a debugging session, not repo content. (profile/, *.png and
+# *.log are already covered above.)
+cdp-shots/*.txt
+cdp-shots/*.mjs
+cdp-shots/*.ps1
+cdp-shots/*.py
+cdp-shots/*.json
+cdp-shots/*.html
+
+# One-off sample-run capture from the launcher.
+_sample_run*.log
