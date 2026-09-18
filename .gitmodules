@@ -1,0 +1,4 @@
+[submodule "street-story-curator"]
+	path = street-story-curator
+	url = https://github.com/nickytuason1125/StreetStoryCurator.git
+	branch = main
