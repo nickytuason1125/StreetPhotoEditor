@@ -53,3 +53,4 @@ cdp-shots/run-*/
 state_backup_*/
 llama-quantize/*.zip
 *.log
+cdp-shots/
